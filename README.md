@@ -15,7 +15,24 @@
 - 📫 How to reach me: meenuparamesp@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/meenu-parames)
 
 
+### 💻 Tech Stack
 
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-4B0082?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-1E90FF?style=flat&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF5733?style=flat"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat"/>
+</p>
 
 <!--
 **MEENUPARAMES/MEENUPARAMES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
