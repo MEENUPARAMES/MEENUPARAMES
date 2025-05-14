@@ -15,9 +15,9 @@
 - 📫 How to reach me: meenuparamesp@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/meenu-parames)
 
 
-### 💻 Tech Stack
 
 ### 💻 Tech Stack
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI-4B0082?style=flat&logo=openai&logoColor=white"/>
