@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm MEENU PARAMES</h1>
+<h1 align="center">Hi 👋, I'm Meenu parames</h1>
 <h3 align="center">Aspiring AI Engineer | Data Scientist | ML Enthusiast</h3>
 
 <p align="center">
